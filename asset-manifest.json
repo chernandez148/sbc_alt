@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sbc_alt/static/css/main.2df2ca3b.css",
+    "main.js": "/sbc_alt/static/js/main.0574a1e4.js",
+    "static/media/wave-bg.png": "/sbc_alt/static/media/wave-bg.d499569779c277d2aae2.png",
+    "index.html": "/sbc_alt/index.html",
+    "main.2df2ca3b.css.map": "/sbc_alt/static/css/main.2df2ca3b.css.map",
+    "main.0574a1e4.js.map": "/sbc_alt/static/js/main.0574a1e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2df2ca3b.css",
+    "static/js/main.0574a1e4.js"
+  ]
+}
