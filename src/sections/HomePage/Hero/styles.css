@@ -1,0 +1,20 @@
+.Hero {
+    position: absolute;
+    width: 100%;
+    height: 100svh;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    transition: opacity .5s ease-in-out;
+    background-image: url('../../../assets/wave-bg.png');
+    background-position: right center;
+    background-repeat: no-repeat;
+
+}
+
+.hero-left,
+.hero-right {
+    position: relative;
+    transition: all 1.5s ease-in-out;
+}
